@@ -1,0 +1,11 @@
+/Users/suraj.rawat/RiderProjects/EshopMart/Infrastructure/EventBus/bin/Debug/net8.0/EventBus.deps.json
+/Users/suraj.rawat/RiderProjects/EshopMart/Infrastructure/EventBus/bin/Debug/net8.0/EventBus.dll
+/Users/suraj.rawat/RiderProjects/EshopMart/Infrastructure/EventBus/bin/Debug/net8.0/EventBus.pdb
+/Users/suraj.rawat/RiderProjects/EshopMart/Infrastructure/EventBus/obj/Debug/net8.0/EventBus.GeneratedMSBuildEditorConfig.editorconfig
+/Users/suraj.rawat/RiderProjects/EshopMart/Infrastructure/EventBus/obj/Debug/net8.0/EventBus.AssemblyInfoInputs.cache
+/Users/suraj.rawat/RiderProjects/EshopMart/Infrastructure/EventBus/obj/Debug/net8.0/EventBus.AssemblyInfo.cs
+/Users/suraj.rawat/RiderProjects/EshopMart/Infrastructure/EventBus/obj/Debug/net8.0/EventBus.csproj.CoreCompileInputs.cache
+/Users/suraj.rawat/RiderProjects/EshopMart/Infrastructure/EventBus/obj/Debug/net8.0/EventBus.dll
+/Users/suraj.rawat/RiderProjects/EshopMart/Infrastructure/EventBus/obj/Debug/net8.0/refint/EventBus.dll
+/Users/suraj.rawat/RiderProjects/EshopMart/Infrastructure/EventBus/obj/Debug/net8.0/EventBus.pdb
+/Users/suraj.rawat/RiderProjects/EshopMart/Infrastructure/EventBus/obj/Debug/net8.0/ref/EventBus.dll

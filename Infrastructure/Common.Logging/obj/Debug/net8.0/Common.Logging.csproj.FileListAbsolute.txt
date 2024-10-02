@@ -1,0 +1,12 @@
+/Users/suraj.rawat/RiderProjects/EshopMart/Infrastructure/Common.Logging/bin/Debug/net8.0/Common.Logging.deps.json
+/Users/suraj.rawat/RiderProjects/EshopMart/Infrastructure/Common.Logging/bin/Debug/net8.0/Common.Logging.dll
+/Users/suraj.rawat/RiderProjects/EshopMart/Infrastructure/Common.Logging/bin/Debug/net8.0/Common.Logging.pdb
+/Users/suraj.rawat/RiderProjects/EshopMart/Infrastructure/Common.Logging/obj/Debug/net8.0/Common.Logging.csproj.AssemblyReference.cache
+/Users/suraj.rawat/RiderProjects/EshopMart/Infrastructure/Common.Logging/obj/Debug/net8.0/Common.Logging.GeneratedMSBuildEditorConfig.editorconfig
+/Users/suraj.rawat/RiderProjects/EshopMart/Infrastructure/Common.Logging/obj/Debug/net8.0/Common.Logging.AssemblyInfoInputs.cache
+/Users/suraj.rawat/RiderProjects/EshopMart/Infrastructure/Common.Logging/obj/Debug/net8.0/Common.Logging.AssemblyInfo.cs
+/Users/suraj.rawat/RiderProjects/EshopMart/Infrastructure/Common.Logging/obj/Debug/net8.0/Common.Logging.csproj.CoreCompileInputs.cache
+/Users/suraj.rawat/RiderProjects/EshopMart/Infrastructure/Common.Logging/obj/Debug/net8.0/Common.Logging.dll
+/Users/suraj.rawat/RiderProjects/EshopMart/Infrastructure/Common.Logging/obj/Debug/net8.0/refint/Common.Logging.dll
+/Users/suraj.rawat/RiderProjects/EshopMart/Infrastructure/Common.Logging/obj/Debug/net8.0/Common.Logging.pdb
+/Users/suraj.rawat/RiderProjects/EshopMart/Infrastructure/Common.Logging/obj/Debug/net8.0/ref/Common.Logging.dll
