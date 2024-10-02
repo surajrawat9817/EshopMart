@@ -1,0 +1,41 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: catalogapi
+  labels:
+    app: catalog-api
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: catalog-api
+  template:
+    metadata:
+      name: catalogapi
+      labels:
+        app: catalog-api
+    spec:
+      containers:
+        - env:
+            - name: ASPNETCORE_ENVIRONMENT
+              value: Development
+            - name: DatabaseSettings__BrandsCollection
+              value: Brands
+            - name: DatabaseSettings__CollectionName
+              value: Products
+            - name: DatabaseSettings__ConnectionString
+              value: mongodb://catalogdb:27017
+            - name: DatabaseSettings__DatabaseName
+              value: CatalogDb
+            - name: DatabaseSettings__TypesCollection
+              value: Types
+            - name: ElasticConfiguration__Uri
+              value: http://elasticsearch:9200
+          name: catalog-api
+          image: rahulsahay19/catalogapi:latest
+          imagePullPolicy: IfNotPresent
+          ports:
+            - containerPort: 80
+              protocol: TCP
+      restartPolicy: Always
+      
